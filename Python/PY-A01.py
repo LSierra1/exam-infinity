@@ -1,3 +1,5 @@
+# Em questions.ipynb (nesta mesma pasta) há mais informações.
+
 quantities = int(input("Digite a quantidade de alunos na turma: "))
 accumulator = 0
 
