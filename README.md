@@ -1,4 +1,4 @@
-# exam-infinity
+# Exams Infinity
 
 This repository is used to track and document completed exercises and assignments in different programming languages and topics.
 
