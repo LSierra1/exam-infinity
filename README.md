@@ -9,7 +9,7 @@ This repository is used to track and document completed exercises and assignment
 - [PY] Aula 01 - Revisão Lógica
   - Prova da aula: INSTRUÇÕES
   - Start Date: 09/10/2023 at 20:13
-  - Final Grade: Evaluating
+  - Final Grade: 10.00
   - Completion Date: 09/10/2023 at 21:29
 
 - [PY] Aula 01 - Revisão Lógica
