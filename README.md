@@ -35,8 +35,8 @@ This repository is used to track and document completed exercises and assignment
   - Start Date: 11/10/2023 at 15:18
   - Final Grade: 6.67
   - Completion Date: 11/10/2023 at 15:23
-  
-  - [PY] Aula 02 - Listas e Tuplas
+
+- [PY] Aula 02 - Listas e Tuplas
   - (Optional) Exercícios Complementares 2
   - Start Date: 11/10/2023 at 15:25
   - Final Grade: 10.00
