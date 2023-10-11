@@ -23,8 +23,13 @@ This repository is used to track and document completed exercises and assignment
   - Start Date: 09/10/2023 at 22:55
   - Final Grade: 10.00
   - Completion Date: 09/10/2023 at 22:56
-
-
+  
+- [PY] Aula 02 - Listas e Tuplas
+  - Prova da aula: INSTRUÇÕES
+  - Start Date: 11/10/2023 at 00:00
+  - Final Grade: Evaluating
+  - Completion Date: 11/10/2023 at 01:27
+  
 ## Programming Logic
 
 ### Exercises done:
