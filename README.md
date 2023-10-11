@@ -30,6 +30,18 @@ This repository is used to track and document completed exercises and assignment
   - Final Grade: Evaluating
   - Completion Date: 11/10/2023 at 01:27
   
+- [PY] Aula 02 - Listas e Tuplas
+  - (Optional) Exercícios Complementares 1
+  - Start Date: 11/10/2023 at 15:18
+  - Final Grade: 6.67
+  - Completion Date: 11/10/2023 at 15:23
+  
+  - [PY] Aula 02 - Listas e Tuplas
+  - (Optional) Exercícios Complementares 2
+  - Start Date: 11/10/2023 at 15:25
+  - Final Grade: 10.00
+  - Completion Date: 11/10/2023 at 15:27
+  
 ## Programming Logic
 
 ### Exercises done:
