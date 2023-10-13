@@ -7,7 +7,7 @@ This repository is used to track and document completed exercises and assignment
 ### Exercises done:
 
 - [PY] Aula 01 - Revisão Lógica
-  - Prova da aula: INSTRUÇÕES
+  - [Prova da aula](Python/PY-A01.py)
   - Start Date: 09/10/2023 at 20:13
   - Final Grade: 10.00
   - Completion Date: 09/10/2023 at 21:29
@@ -25,7 +25,7 @@ This repository is used to track and document completed exercises and assignment
   - Completion Date: 09/10/2023 at 22:56
   
 - [PY] Aula 02 - Listas e Tuplas
-  - Prova da aula: INSTRUÇÕES
+  - [Prova da aula](Python/PY-A02.py)
   - Start Date: 11/10/2023 at 00:00
   - Final Grade: Evaluating
   - Completion Date: 11/10/2023 at 01:27
@@ -41,6 +41,12 @@ This repository is used to track and document completed exercises and assignment
   - Start Date: 11/10/2023 at 15:25
   - Final Grade: 10.00
   - Completion Date: 11/10/2023 at 15:27
+
+- [PY] Aula 03 - Dicionários e Sets
+  - [Prova da aula](Python/PY-A03.py)
+  - Start Date: 13/10/2023 at 11:38
+  - Final Grade: Evaluating
+  - Completion Date: 13/10/2023 at 14:26
   
 ## Programming Logic
 
