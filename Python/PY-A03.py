@@ -34,8 +34,6 @@ pessoas["Ana"] = 31 # Adiciona uma pessoa chamada "Ana" com o valor 31 (31 anos)
 
 # Aqui começa uma função para separar as pessoas que tem mais de 18 anos das que tem menos de 18 anos.
 def maior_idade(pessoas):
-    pessoasMaiorIdade = {}
-    pessoasMenorIdade = {}
 
     for nome, idade in pessoas.items():
         if idade >= 18:
