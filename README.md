@@ -27,7 +27,7 @@ This repository is used to track and document completed exercises and assignment
 - [PY] Aula 02 - Listas e Tuplas
   - [Prova da aula](Python/PY-A02.py)
   - Start Date: 11/10/2023 at 00:00
-  - Final Grade: Evaluating
+  - Final Grade: 10.00
   - Completion Date: 11/10/2023 at 01:27
   
 - [PY] Aula 02 - Listas e Tuplas
