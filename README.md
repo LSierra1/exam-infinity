@@ -45,7 +45,7 @@ This repository is used to track and document completed exercises and assignment
 - [PY] Aula 03 - Dicionários e Sets
   - [Prova da aula](Python/PY-A03.py)
   - Start Date: 13/10/2023 at 11:38
-  - Final Grade: Evaluating
+  - Final Grade: 10.00
   - Completion Date: 13/10/2023 at 14:26
   
 ## Programming Logic
