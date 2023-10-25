@@ -63,7 +63,7 @@ This repository is used to track and document completed exercises and assignment
 - [PY] Aula 04 - Funções
   - [Prova da aula](Python/PY-A04.py)
   - Start Date: 25/10/2023 at 12:40
-  - Final Grade: Evaluating
+  - Final Grade: 10.00
   - Completion Date: 25/10/2023 at 13:14
 
 ## Programming Logic
