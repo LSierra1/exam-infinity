@@ -47,7 +47,25 @@ This repository is used to track and document completed exercises and assignment
   - Start Date: 13/10/2023 at 11:38
   - Final Grade: 10.00
   - Completion Date: 13/10/2023 at 14:26
-  
+
+- [PY] Aula 03 - Dicionários e Sets
+  - (Optional) Exercícios Complementares 1
+  - Start Date: 25/10/2023 at 12:24
+  - Final Grade: 6.67
+  - Completion Date: 25/10/2023 at 12:31
+
+- [PY] Aula 03 - Dicionários e Sets
+  - (Optional) Exercícios Complementares 2
+  - Start Date: 25/10/2023 at 12:34
+  - Final Grade: 10.00
+  - Completion Date: 25/10/2023 at 12:36
+
+- [PY] Aula 04 - Funções
+  - [Prova da aula](Python/PY-A04.py)
+  - Start Date: 25/10/2023 at 12:40
+  - Final Grade: Evaluating
+  - Completion Date: 25/10/2023 at 13:14
+
 ## Programming Logic
 
 ### Exercises done:
